@@ -1,0 +1,13 @@
+{
+  "name": "eesha-global-services",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website for Eesha Global Services, an abroad admissions consultancy.",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js && node serve.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
